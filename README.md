@@ -1,2 +1,4 @@
 # hml_website
 Files associated with the website for Heterick Memorial Library at Ohio Northern University.
+The website is currently being hosted on the LibGuides CMS platform. As such, much of the HTML for wepage structures (boxes, box titles, etc) is handled using the platform itself, rather than being custom built. HTML for custom items, specifically the header, navigation bar, and the footer, have been included here. The necessary Javascript for mobile version of the header and navigation bar have also been included. The CSS for the library website was developed from existing code from Ohio Northern University's old webpage for the library, combined with custom code created to fit the library's needs and to meet web accessibility guidelines.
+Any updates to the code files will be listed below.
