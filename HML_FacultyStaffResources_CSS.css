@@ -1,0 +1,11 @@
+/* ONU HML Faculty/Staff Resources CSS Last Updated: 07/29/22 */
+/* Place within guide page itself using style tags */
+.s-lg-box-wrapper-32327225 {
+	    border-right-style: solid;}
+	.s-lg-box-wrapper-32412779 {  
+	    border-right-style: solid;}
+	@media only screen and (max-width:991px) {
+	    .s-lg-box-wrapper-32412779 {  
+	        border-style: none;}
+	    .s-lg-box-wrapper-32327225 {
+	        border-style: none;}}
